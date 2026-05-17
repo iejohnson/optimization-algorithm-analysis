@@ -20,6 +20,19 @@ Implements and compares six numerical optimization algorithms on two classic tes
 | Gauss-Newton | 22 | 3 |
 | Damped Gauss-Newton | 22 | 13 |
 
+## Results
+Convergence iterations and contour plots for quadratic:
+<img width="983" height="584" alt="image" src="https://github.com/user-attachments/assets/dcd43daa-b581-4d12-bfa3-f130f78acb69" />
+
+<img width="1784" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2a2f2b5-7be1-40d3-9549-d741a0384ba9" />
+
+
+
+Convergence iterations and contour plots for Rosenbrock:
+<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/fba6a293-9eb1-41cb-8ba0-09491a82aefb" />
+
+<img width="1784" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2c5dd33-d731-430b-be9e-c57a91ac54a9" />
+
 ## Key Findings
 - Newton's method converges in 1–2 iterations by leveraging exact Hessian information
 - Gauss-Newton is remarkably effective on the Rosenbrock (3 iterations) due to its structured least-squares formulation
