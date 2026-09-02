@@ -1,5 +1,8 @@
 # Optimization Methods Comparison
-**Authors:** Isabella Johnson & Mia Bella Rodriguez  
+## Authors
+- **Isabella Johnson** — Designed and implemented all code in this repository
+- **Mia Bella Rodriguez** — Presented the related textbook section in class
+  
 **Course:** Optimization | University of Colorado Colorado Springs  
 **Date:** Spring 2026
 
